@@ -1,12 +1,20 @@
 /*
+<<<<<<< HEAD
 =============== 
+=======
+===============
+>>>>>>> cc8ff99e94b01a6fa1ffe15ffa9022897cf2a978
 Fonts
 ===============
 */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,700&display=swap");
 
 /*
+<<<<<<< HEAD
 =============== 
+=======
+===============
+>>>>>>> cc8ff99e94b01a6fa1ffe15ffa9022897cf2a978
 Variables
 ===============
 */
@@ -54,7 +62,11 @@ Variables
   --fixed-width: 620px;
 }
 /*
+<<<<<<< HEAD
 =============== 
+=======
+===============
+>>>>>>> cc8ff99e94b01a6fa1ffe15ffa9022897cf2a978
 Global Styles
 ===============
 */
@@ -68,6 +80,7 @@ Global Styles
 }
 body {
   font-family: var(--ff-secondary);
+
   background: var(--clr-grey-1);
   color: var(--clr-grey-10);
   line-height: 1.5;
@@ -152,7 +165,7 @@ main {
 }
 
 /*
-=============== 
+
 Reviews
 ===============
 */
